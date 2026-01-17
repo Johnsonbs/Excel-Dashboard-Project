@@ -1,15 +1,17 @@
 # Excel-Dashboard-Project
+[Dataset](https://github.com/Johnsonbs/Excel-Dashboard-Project/blob/main/Bike%20Store%20Analysis%20Project.xlsx)
+
+[View Dashboard](https://github.com/Johnsonbs/Excel-Dashboard-Project/blob/main/Screenshot%202026-01-11%20184907.png)
 ## Objectives
 The Bike Store Manager has requested an analytical report based on the dataset provided. Your task is to analyze the data, generate meaningful insights, and build an interactive dashboard in Excel to present your findings effectively.
 ## Processes
 - Understand the Dataset – Explore the dataset, identify key columns, and determine important metrics relevant to bike purchasing trends.
 - Data Cleaning – Handle missing values, inconsistencies, and ensure data accuracy before proceeding with the analysis.
-- Generate Insights – Identify patterns such as: How income level influences bike purchases, The impact of marital status, education, and occupation on bike sales and Trends based on region and commute distance.
+- Generate Insights – Identify patterns such as: How income level, marital status, education, and occupation affects bike purchase and the commute distance based on region.
 - Build an Interactive Dashboard – Use Pivot Tables, Slicers, Charts, and Conditional Formatting to make the report dynamic and visually insightful. Ensure the dashboard is user-friendly for the manager to explore key metrics easily.
 - Summarize Findings – Provide a brief report highlighting key takeaways and business recommendations.
 ## Summary Report
-This report gives an analytical insight into the influence of income levels, education, occupation and marital status on bike sales. It also analyses commute distances based on region.
-### KPIs
+This report gives an analytical insight into the influence of income levels, education, occupation and marital status on bike purchase. It also analyses commute distances based on region.
 ### Findings
 #### 1. Income Level by Purchased Bike
 The findings in this analysis shows the influence of income levels on bike sales. It reveals that bike purchase is lower among individuals with higher income level, particularly from $70,000 income upward. This suggests that the purchase of bike is common among individuals with lower income levels. There is also a conspicuous decline in the purchase of bike among $50,000 income individuals.
@@ -21,5 +23,7 @@ The findings shows that individuals with professional occupations purchased bike
 The analysis also reveals that 52% of those who purchased bike were single while 48% were married. 
 #### 5. Region by Purchased Bike
 The znalysis reveals that there is a higher bike purchase in North America than in other regions.
-#### 6. Trend of Region by Commute Disatance
+#### 6. Trend of Region by Commute Distance
 Analysis also shows that North America had the highest accumulative commute distance among respondents.
+### Conclusion
+### Recommendation
